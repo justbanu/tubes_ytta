@@ -1,2 +1,2 @@
 # tubes_ytta
-nanti
+Kalau mau nyoba programnya langsung ke folder /dist/vendingmachine.exe
