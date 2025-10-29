@@ -1,5 +1,5 @@
 from data import barang_array, harga_array, stok_array, kategori_array
-
+# kamus
 program_jalan = True
 
 while program_jalan:
@@ -268,3 +268,4 @@ while program_jalan:
                 else:
                     print("Masukkan angka yang valid untuk jumlah.")
                     tahap = 2
+
