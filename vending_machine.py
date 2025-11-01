@@ -30,6 +30,7 @@ from data import barang_array, harga_array, stok_array, kategori_array
 # Adapun command khusus seperti \033[1;31m hanya mengubah tampilan teks warna
 # Beberapa algoritma diambil dari modul praktikum berkomputasional "python-id.pdf" seperti pengunaan str dan len() dalam konteks Modul 2: Perulangan dan Array
 
+# Algoritma
 program_jalan = True
 
 while program_jalan:
