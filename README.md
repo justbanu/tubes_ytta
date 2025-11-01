@@ -1,5 +1,5 @@
-Program Vending Machine
-
+**Program Vending Machine
+**
 Repositori ini dibuat dalam rangka pemenuhan tugas besar pertama mata kuliah "Berpikir Komputasional".
 
 Program Vending Machine ITB adalah simulasi mesin penjual otomatis berbasis teks yang dibuat dengan hasa Python.
