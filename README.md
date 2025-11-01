@@ -1,6 +1,8 @@
-#TUBES BERKOM
+Program Vending Machine
 
-Program Vending Machine ITB adalah simulasi mesin penjual otomatis berbasis teks yang dibuat dengan bahasa Python.
+Repositori ini dibuat dalam rangka pemenuhan tugas besar pertama mata kuliah "Berpikir Komputasional".
+
+Program Vending Machine ITB adalah simulasi mesin penjual otomatis berbasis teks yang dibuat dengan hasa Python.
 Program ini memungkinkan dua peran pengguna:
 
 Admin, yang dapat menambah stok, mengubah harga, dan menambahkan barang baru.
